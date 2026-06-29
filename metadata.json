@@ -1,0 +1,6 @@
+{
+  "name": "Reconstrói",
+  "description": "Plataforma de arrecadação para emergências e desastres com foco em transparência total e prestação de contas auditável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
